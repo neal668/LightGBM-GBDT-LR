@@ -1,5 +1,5 @@
 # LightGBM-GBDT-LR
-a python code of applying GBDT+LR for CTR prediction 
+A simple python code of applying GBDT+LR for CTR prediction 
 
 The part of GBDT is proceeded by LightGBM, which is recently proposed by Microsoft
 
